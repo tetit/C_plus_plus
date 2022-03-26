@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1583071084 source:e:\c++\fibonacie\main.cpp
+	<iostream>
+	<iomanip>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1583055596 source:e:\c++\pentli\main.cpp
+	<iostream>
+	<windows.h>
+	<cstdlib>
+
